@@ -211,12 +211,3 @@ npm run build
 
 Built files will be in the `dist/` directory, ready for hosting on any static hosting platform.
 
-## 📧 Submission
-
-**Project URL**: [Your deployed application URL]
-**GitHub Repository**: [Your repository URL]
-**Contact**: vikas@bulba.app
-
----
-
-This AI Data Agent platform demonstrates exceptional analytical capabilities for any user-uploaded dataset, providing a truly conversational and intelligent interface for Excel data analysis.
